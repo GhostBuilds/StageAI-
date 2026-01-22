@@ -1,0 +1,7 @@
+{
+  "name": "StageAI - Virtual Home Staging",
+  "description": "Professional virtual staging for real estate agents. Transform empty or cluttered rooms into beautifully staged spaces in various styles like Modern, Rustic, and Minimalist using AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
